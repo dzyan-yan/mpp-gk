@@ -885,7 +885,18 @@ section {
   font-size: 24px;
 }
 
+.services .icon-box h3 {
+  font-weight: 450;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
 .services .icon-box h4 a {
+  color: #37517e;
+  transition: ease-in-out 0.3s;
+}
+
+.services .icon-box h3 a {
   color: #37517e;
   transition: ease-in-out 0.3s;
 }
